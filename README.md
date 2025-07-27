@@ -22,9 +22,12 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="leetcode" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06">
-<b>Other:</b>
-  <img alt="blender" src="https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white">
-  <img alt="davinci" src="https://img.shields.io/badge/DaVinci%20Resolve-1C1C1C?logo=blackmagicdesign&logoColor=white">
+  <br>
+
+<b>Other:</b><br>
+<img alt="blender" src="https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white">
+<img alt="davinci" src="https://img.shields.io/badge/DaVinci%20Resolve-1C1C1C?logo=blackmagicdesign&logoColor=white">
+
 </p>
 <h3>My latest posts</h3>
 <ul>
