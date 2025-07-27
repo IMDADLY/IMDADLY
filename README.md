@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm Imdadurahman from <img src="https://cdn-icons-png.flaticon.com/512/9906/9906480.png" width="13"/> <b>Kerala, India</b></p>
-<h3><img src=assets/toolbox.gif width="13"> Tools I have worked with</h3>
+<h3><img src="assets/toolbox.gif"> Tools I have worked with</h3>
 <p>
   <img alt="VSCode" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff">
