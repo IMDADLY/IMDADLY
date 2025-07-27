@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Imdadurahman, a passionate self-learned full-stack web developer from <img src="https://cdn-icons-png.flaticon.com/512/9906/9906480.png" width="13"/> <b>Kerala, India</b></p>
+<p>Welcome to my page! </br> I'm Imdadurahman, a passionate self-learned full-stack web developer from <img src="https://cdn-icons-png.flaticon.com/512/9906/9906480.png" width="13"/> <b>Kerala, India.</b> My personal interests are mathematics, problem-solving, and coding.</p>
 <h3><img src="assets/toolbox.gif">My Working Stack — So Far!</h3>
 <p>
 <br>
